@@ -1,0 +1,23 @@
+{
+  "name": "node-jenkins-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkins-amit/node-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenkins-amit/node-demo/issues"
+  },
+  "homepage": "https://github.com/jenkins-amit/node-demo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
